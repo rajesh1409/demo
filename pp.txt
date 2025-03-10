@@ -1,0 +1,9 @@
+The chatbot is an AI-powered solution built to assist students and professors in academic processes. 
+It provides user authentication, course detail retrieval, reading list management, and file uploads, reducing administrative workload and simplifying access to resources.
+
+
+Developed on Botpress, this chatbot automates academic support for students and faculty.
+ Users can register, log in securely, access course details, upload files, and manage reading lists. The Low-Code/No-Code approach ensures easy implementation and usability.
+
+Developing the chatbot presented challenges such as implementing secure authentication, optimizing intent recognition, and managing variables. These were resolved by refining state transitions, using structured data handling, and improving response accuracy for better user experience.
+
